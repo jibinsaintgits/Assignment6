@@ -1,0 +1,1 @@
+File.delete("fruits1.txt")
